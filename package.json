@@ -16,6 +16,8 @@
     "@reactchartjs/react-chart.js": "^1.0.0-rc.3",
     "@reduxjs/toolkit": "^1.5.0",
     "@wojtekmaj/enzyme-adapter-react-17": "^0.3.2",
+    "ajv": "^8.17.1",
+    "ajv-keywords": "^5.1.0",
     "axios": "^1.7.3",
     "browser-image-compression": "^1.0.14",
     "chart.js": "^2.9.4",
